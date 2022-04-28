@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/gdamore/tcell/v2/encoding"
+	"github.com/tagirmukail/tcell"
+	"github.com/tagirmukail/tcell/encoding"
 
 	"github.com/mattn/go-runewidth"
 )
